@@ -1,5 +1,5 @@
 # Pháp Ảnh Lục 
-_(bản in 2017)_
+_(bản in 2017, (link Google Drive)[https://drive.google.com/drive/folders/1JBddrdSzhnynsGqw9EsvzMb_-XSaSnVQ])_
 
 ## Loại khổ lớn
 
