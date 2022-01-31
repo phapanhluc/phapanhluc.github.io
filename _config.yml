@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-
 title: Pháp Ảnh Lục
-description: >-
-  Tỷ kheo Trí Quang
+logo: /logo.jpeg
+description: Tỷ kheo Trí Quang
+google_analytics:
+theme: jekyll-theme-minimal
