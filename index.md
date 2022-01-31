@@ -1,4 +1,5 @@
-# Pháp Ảnh Lục (bản in 2017)
+# Pháp Ảnh Lục 
+_(bản in 2017)_
 
 ## Loại khổ lớn
 
@@ -68,5 +69,9 @@
 - Phật pháp sơ cấp
 - Tơ lòng thêu Sử Phật
 - Lịch sử truyền bá Phật giáo
-- Trí Quang tự truyện
+
+# Tâm Ảnh Lục
+
 - Tâm ảnh lục
+- Trí Quang tự truyện
+
