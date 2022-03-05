@@ -1,3 +1,6 @@
+layout: default
+comments: true
+
 # Pháp Ảnh Lục 
 _(bản in 2017, [download link Google Drive](https://drive.google.com/drive/folders/1JBddrdSzhnynsGqw9EsvzMb_-XSaSnVQ))_
 
