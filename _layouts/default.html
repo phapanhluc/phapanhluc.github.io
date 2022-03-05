@@ -32,11 +32,8 @@
       <section>
 
       {{ content }}
-
-      </section>
-      
-      <section>
-        {% if page.comments %}
+        
+      {% if page.comments %}
 <div class="comments">
   <div id="disqus_thread"></div>
     <script>
@@ -58,6 +55,7 @@
 
   </div>
 {% endif %}
+
       </section>
      
       <footer>
