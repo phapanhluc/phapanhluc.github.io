@@ -75,3 +75,7 @@ _(bản in 2017, [download link Google Drive](https://drive.google.com/drive/fol
 - Tâm ảnh lục
 - Trí Quang tự truyện
 
+---
+
+- [Kinh Kim Cang]({% link kinh-kim-cang.md %})
+
