@@ -77,5 +77,5 @@ _(bản in 2017, [download link Google Drive](https://drive.google.com/drive/fol
 
 ---
 
-- [Kinh Kim Cang]({% link kinh-kim-cang.md %})
+- [Kinh Kim Cang](kinh-kim-cang.md)
 
