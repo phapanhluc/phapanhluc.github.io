@@ -78,8 +78,7 @@ _(bản in 2017, [download link Google Drive](https://drive.google.com/drive/fol
 ---
 
 # Trì Chú
-Kinh
--[Chú Nhật Tụng](Tri-Chu,ipynb)
+-[Chú Nhật Tụng]([Tri-Chu,ipynb](/Chu/Lang-Nghiem-Dai-Bi-Thap-Chu.md))
 
 # Tụng Kinh
 - [Kinh Kim Cang](kinh-kim-cang.md)
