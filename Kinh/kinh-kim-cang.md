@@ -923,5 +923,8 @@ Nhất thiết hữu vi pháp, Như mộng, huyễn, bào, ảnh ; Như lộ
 
 Phật thuyết thị kinh dĩ, trưởng lão Tu-bồ-đề cập chư Tỳ-kheo, Tỳ-kheo ni, Ưu-bà-tắc, Ưu-bà-di, nhất thiết thế gian thiên, nhân, a-tu-la, văn Phật sở thuyết, giai đại hoan hỉ, tín thọ phụng hành.
 佛說是經已，長老須菩提，及諸比丘、比丘尼、優婆塞、優婆夷，一切世間天、人、阿修羅，聞佛所說，皆大歡喜，信受奉行。
+
 Nam-mô Bát-nhã hội-thượng Phật Bồ-tát ma-ha-tát. 
+
+---
 
