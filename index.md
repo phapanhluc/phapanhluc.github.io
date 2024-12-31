@@ -82,5 +82,5 @@ _(bản in 2017, [download link Google Drive](https://drive.google.com/drive/fol
 
 # Tụng Kinh
 - [Kinh Kim Cang](/Kinh/Kinh Kim Cang/Kinh-Kim-Cang_Viet-van_Han-van.md)
-- [Kinh Kim Cang, Tỷ kheo Trí Quang dịch](/Kinh/Kinh Kim Cang/Kinh Kim Cang Ty kheo Tri Quang dich 2017.md)
+- [Kinh Kim Cang, Tỷ kheo Trí Quang dịch](Kinh/Kinh Kim Cang/Kinh Kim Cang Ty kheo Tri Quang dich 2017.md)
 
