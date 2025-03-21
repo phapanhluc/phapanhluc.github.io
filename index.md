@@ -1,4 +1,10 @@
-# Pháp Ảnh Lục 
+# Chú
+- [Chú Nhật Tụng](./chu/chu-nhat-tung.md)
+
+# Kinh Điển
+- [Kinh Kim Cang](./kinh/kinh-kim-cang.md)
+  
+# Pháp Ảnh Lục, Tỷ kheo Trí Quang   
 _(Bản in 2017, [download link Google Drive](https://drive.google.com/drive/folders/1JBddrdSzhnynsGqw9EsvzMb_-XSaSnVQ))_
 
 ## Loại khổ lớn
@@ -74,11 +80,5 @@ _(Bản in 2017, [download link Google Drive](https://drive.google.com/drive/fol
 
 - Tâm ảnh lục
 - Trí Quang tự truyện
-
-# Trì Chú
-- [Chú Nhật Tụng](./chu/chu-nhat-tung.md)
-
-# Tụng Kinh
-- [Kinh Kim Cang](./kinh/kinh-kim-cang.md)
 
 ---
