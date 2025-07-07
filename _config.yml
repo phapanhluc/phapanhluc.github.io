@@ -2,12 +2,14 @@
 version: 1
 project:
   id: 60d1a909-b4b4-4e60-b4ab-e0d4033d3bb8
-  # title:
+  title: Pháp Ảnh Lục
   # description:
   # keywords: []
   # authors: []
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: index.md
 site:
   template: book-theme
   # options:
