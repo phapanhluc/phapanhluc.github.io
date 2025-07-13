@@ -1,4 +1,5 @@
-# TRÌ CHÚ 
+# Trì Chú  
+* [Lăng Nghiêm Đại Bi Thập Chú](./chu/chu-nhat-tung.md)
 
 # CHƠN NGÔN
 

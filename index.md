@@ -4,10 +4,11 @@
 - [Chú Nhật Tụng](./chu/chu-nhat-tung.md)
 
 ## Kinh Điển
-- [Kinh Kim Cang](./kinh/kinh-kim-cang.md)
+- [Kinh Kim Cang](./kinh/Kinh_Kim_Cang.md)
   
 ## Pháp Ảnh Lục, Tỷ kheo Trí Quang   
-_(Bản in 2017, [download link Google Drive](https://drive.google.com/drive/folders/1JBddrdSzhnynsGqw9EsvzMb_-XSaSnVQ))_
+
+**Bản in 2017**, [link Google Drive](https://drive.google.com/drive/folders/1JBddrdSzhnynsGqw9EsvzMb_-XSaSnVQ)
 
 ### Loại khổ lớn
 
