@@ -9,7 +9,12 @@ project:
   toc:
     - file: index.md
     - file: chu.md
+      children:
+      - file: ./chu/Chu_Lang_Nghiem.md
+      - file: ./chu/Chu_Dai_Bi.md
     - file: kinh.md
+      children:
+      - file: ./kinh/Kinh_Kim_Cang.md
     
 site:
   template: book-theme
